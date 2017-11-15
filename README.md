@@ -1,6 +1,6 @@
 # node-csvjson
 
-> Generate static JSON from CSV key/value data.
+Generate static JSON from CSV key/value data.
 
 
 ## Getting Started

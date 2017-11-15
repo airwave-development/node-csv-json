@@ -17,7 +17,6 @@ var cli = meow({
 });
 
 var fileObject = {};
-
 var files = cli.input;
 
 var ProcessCSV = require('./lib/ProcessCSV');

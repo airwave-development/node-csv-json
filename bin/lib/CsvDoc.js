@@ -1,5 +1,4 @@
 var csvParse = require('csv-parse');
-
 /**
 	@class CsvDoc
 	@constructor

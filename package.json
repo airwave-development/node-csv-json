@@ -1,5 +1,5 @@
 {
-    "name": "node-csv-json",
+    "name": "node-csvjson",
     "version": "1.0.0",
     "description": "convert csv to json object",
     "main": "index.js",

@@ -17,7 +17,9 @@ yarn install node-csvjson --save
 
 ## Usage
 ```shell
-node-csvjson /directory-with-csv-files
+var nodeCsvJson = require('node-csv-json');
+
+nodeCsvJson('directory containing csv files');
 
 ```
 

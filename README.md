@@ -1,4 +1,4 @@
-# node-csv-json
+# node-csvjson
 
 > Generate static JSON from CSV key/value data.
 
@@ -7,13 +7,17 @@
 
 
 ```shell
-npm install node-csv-json --save-dev
+npm install node-csvjson --save-dev
+
+or
+
+yarn install node-csvjson --save-dev
 ```
 
 
 ## Usage
 ```shell
-node-csv-json /directory-with-csv-files
+node-csvjson /directory-with-csv-files
 ```
 
 ### Overview
@@ -51,7 +55,7 @@ In your project's Gulpfile, add a section named `csvjson` to the data object pas
 
 ```js
 var gulp = require('gulp');
-var csv2json = require('node-csv-json');
+var csv2json = require('node-csvjson');
 var options = {};
 gulp.task('csvToJson', function () {
     return gulp
@@ -175,4 +179,4 @@ Will generate:
 	]
 }
 ```
-# node-csv-json
+# node-csvjson

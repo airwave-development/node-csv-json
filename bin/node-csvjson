@@ -12,7 +12,7 @@ var filePath;
 var extension;
 
 var cli = meow({
-    pkg: 'package.json',
+    pkg: '../package.json',
     help: ['Usage', '   <input>']
 });
 

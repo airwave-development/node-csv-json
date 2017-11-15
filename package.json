@@ -1,6 +1,6 @@
 {
     "name": "node-csvjson",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "convert csv to json object",
     "bin": {
         "node-csvjson": "bin/node-csvjson"
